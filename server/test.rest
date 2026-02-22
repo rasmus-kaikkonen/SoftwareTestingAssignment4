@@ -7,7 +7,7 @@
 GET {{baseUrl}}/api/health
 
 ### Get Random Dog Image
-GET {{baseUrl}}/api/dogs/random
+GET {{baseUrl}}/api/dogs/random/
 
 ### Get Random Dog Image (Alternative format)
 GET {{baseUrl}}/api/dogs/random
